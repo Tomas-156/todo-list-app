@@ -1,0 +1,57 @@
+﻿
+# Build 
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Bb]ld/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+publish/
+AppPackages/
+PublishProfiles/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+*.DotSettings.user
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.backup
+*.cache
+*.log
+~$*
+*.orig
+*.rej
+
+# WPF / Resource generated files
+*.g.cs
+*.g.i.cs
+*.resources.dll
+*.vspscc
+
+# OS 
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#User
+*.rsuser 
+*.suo 
+*.user 
+*.userosscache 
+*.sln.docstate
+
