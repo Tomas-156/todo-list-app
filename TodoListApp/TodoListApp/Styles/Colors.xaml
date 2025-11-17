@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- === Core Neutrals === -->
+    <Color x:Key="White">#FFFFFFFF</Color>
+    
+    <Color x:Key="BeckgroundColor">#FFF7F7F7</Color>
+
+    <Brush x:Key="BeckgroundBrush">#FFF7F7F7</Brush>
+
+
+    
+
+    <Color x:Key="ElementsColor">#FFCFCFCF</Color>
+    <Color x:Key="ElementsMouseOverColor">#FFAAAAAA</Color>
+    <Color x:Key="ElementsFocusColor">#FF888888</Color>
+    
+
+    <!-- === Text Colors === -->
+    <Color x:Key="TextPrimary">#FF333333</Color>
+    <Color x:Key="TextSecondary">#FF888888</Color>
+    <Color x:Key="TextPrimaryHover">#FF222222</Color>
+    <Color x:Key="TextPrimaryActive">#FF1A1A1A</Color>
+
+    
+
+
+</ResourceDictionary>

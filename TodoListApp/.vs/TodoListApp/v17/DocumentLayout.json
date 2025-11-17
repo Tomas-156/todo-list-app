@@ -3,15 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|c:\\users\\tom\u00E1\u0161\\source\\repos\\todolistapp\\todo-list-app\\todolistapp\\todolistapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|c:\\users\\tom\u00E1\u0161\\source\\repos\\todolistapp\\todo-list-app\\todolistapp\\todolistapp\\customcontrols\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\customcontrols\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|c:\\users\\tom\u00E1\u0161\\source\\repos\\todolistapp\\todo-list-app\\todolistapp\\todolistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\view\\taskpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\view\\taskpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\customcontrols\\taskinputcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\customcontrols\\taskinputcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\styles\\textboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\styles\\textboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\customcontrols\\taskinputcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\customcontrols\\taskinputcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tom\u00E1\u0161\\AppData\\Local\\Temp\\.vsdbgsrc\\546399cc19f4f5508fa5587b924a31b0739e07c70af9c0d3565cd81263a2de15\\DependencyObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|c:\\users\\tom\u00E1\u0161\\source\\repos\\todolistapp\\todo-list-app\\todolistapp\\todolistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\todolistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B12DB5C5-1D2F-4374-BED0-83E08339A2A1}|TodoListApp\\TodoListApp.csproj|solutionrelative:todolistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,31 +62,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\.gitignore",
-              "RelativeDocumentMoniker": "TodoListApp\\.gitignore",
-              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\.gitignore",
-              "RelativeToolTip": "TodoListApp\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-01T10:18:43.057Z",
+              "Title": "TaskControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\CustomControls\\TaskControl.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\CustomControls\\TaskControl.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\CustomControls\\TaskControl.xaml",
+              "RelativeToolTip": "TodoListApp\\CustomControls\\TaskControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T13:59:41.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "DependencyObject.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\AppData\\Local\\Temp\\.vsdbgsrc\\546399cc19f4f5508fa5587b924a31b0739e07c70af9c0d3565cd81263a2de15\\DependencyObject.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\546399cc19f4f5508fa5587b924a31b0739e07c70af9c0d3565cd81263a2de15\\DependencyObject.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\AppData\\Local\\Temp\\.vsdbgsrc\\546399cc19f4f5508fa5587b924a31b0739e07c70af9c0d3565cd81263a2de15\\DependencyObject.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\546399cc19f4f5508fa5587b924a31b0739e07c70af9c0d3565cd81263a2de15\\DependencyObject.cs [Read Only]",
+              "ViewState": "AgIAABcCAAAAAAAAAADgvyMCAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:05:59.641Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskInputControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\CustomControls\\TaskInputControl.xaml.cs",
+              "RelativeDocumentMoniker": "TodoListApp\\CustomControls\\TaskInputControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\CustomControls\\TaskInputControl.xaml.cs",
+              "RelativeToolTip": "TodoListApp\\CustomControls\\TaskInputControl.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:36:20.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextBoxStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\Styles\\TextBoxStyles.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\Styles\\TextBoxStyles.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\Styles\\TextBoxStyles.xaml",
+              "RelativeToolTip": "TodoListApp\\Styles\\TextBoxStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T18:19:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "TodoListApp\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T12:18:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\App.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\App.xaml",
+              "RelativeToolTip": "TodoListApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T12:16:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskInputControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\CustomControls\\TaskInputControl.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\CustomControls\\TaskInputControl.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\CustomControls\\TaskInputControl.xaml",
+              "RelativeToolTip": "TodoListApp\\CustomControls\\TaskInputControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T13:59:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TodoListApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\MainWindow.xaml",
               "RelativeToolTip": "TodoListApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-01T10:15:12.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T10:15:12.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TodoListApp\\MainWindow.xaml.cs",
@@ -63,7 +165,30 @@
               "RelativeToolTip": "TodoListApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T10:15:11.947Z",
+              "WhenOpened": "2025-11-01T10:15:11.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\Styles\\Colors.xaml",
+              "RelativeToolTip": "TodoListApp\\Styles\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T16:17:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskPanelView.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\View\\TaskPanelView.xaml",
+              "RelativeDocumentMoniker": "TodoListApp\\View\\TaskPanelView.xaml",
+              "ToolTip": "C:\\Users\\Tom\u00E1\u0161\\source\\repos\\ToDoListApp\\todo-list-app\\TodoListApp\\TodoListApp\\View\\TaskPanelView.xaml",
+              "RelativeToolTip": "TodoListApp\\View\\TaskPanelView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T13:13:19.183Z",
               "EditorCaption": ""
             }
           ]

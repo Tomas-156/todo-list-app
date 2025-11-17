@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="TodoListApp.VIew.TaskPanelView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TodoListApp.VIew"
+             xmlns:userControl="clr-namespace:TodoListApp.CustomControls"
+
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="600" Background="{StaticResource BeckgroundBrush}" >
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Label 
+            Grid.Row="0"
+            Content="To-Do List" 
+            VerticalAlignment="Center" 
+            Margin="50,0,0,0" 
+            Foreground="#333333" 
+            FontSize="32" 
+            FontWeight="DemiBold">
+         </Label>
+
+        <userControl:TaskInputControl Grid.Row="1">
+            
+        </userControl:TaskInputControl>
+
+        <ListView  Grid.Row="2" Background="Transparent" BorderThickness="0" >
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Focusable" Value="false"/>
+                    
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListViewItem >
+                
+                <userControl:TaskControl >
+                    
+                </userControl:TaskControl>
+            </ListViewItem>
+        </ListView>
+
+    </Grid>
+</UserControl>
